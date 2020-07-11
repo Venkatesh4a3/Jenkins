@@ -8,6 +8,9 @@ public class Application1 {
 
 		System.out.println("Display on console");
 		
+		System.out.println("Display on console1");
+		
+		
 	}
 
 }
