@@ -5,6 +5,9 @@
   <groupId>com.code.jenkins</groupId>
   <artifactId>Jenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <configuration>
+			<failOnMissingWebXml>false</failOnMissingWebXml>
+		</configuration>
   <packaging>war</packaging>
 
   <name>Jenkins</name>
